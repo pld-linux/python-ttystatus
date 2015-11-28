@@ -2,7 +2,7 @@
 Summary:	Progress and status updates on terminals for Python
 Name:		python-%{module}
 Version:	0.23
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Libraries/Python
 Source0:	http://code.liw.fi/debian/pool/main/p/python-%{module}/%{name}_%{version}.orig.tar.gz

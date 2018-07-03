@@ -9,7 +9,7 @@
 Summary:	Progress and status updates on terminals for Python
 Name:		python-%{module}
 Version:	0.32
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Libraries/Python
 Source0:	http://git.liw.fi/cgi-bin/cgit/cgit.cgi/ttystatus/snapshot/ttystatus-0.32.tar.gz
